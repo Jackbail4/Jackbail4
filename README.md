@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello. My name is Jack. I like anything computers; mostly reverse engineering, game hacking, C, C++, Kernel, x86 and x64 Assembly
 
 <!--
 **Jackbail4/Jackbail4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
