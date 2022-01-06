@@ -5,7 +5,7 @@
 
 
 📧Discord: Bignout#0515
-[a link] (https://github.com/user/repo/blob/branch/other_file.md)
+Click [here](https://discord.gg/dExJ9Sck7n) to go to my Quora profile. 
 <!--
 **Jackbail4/Jackbail4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
