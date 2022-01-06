@@ -5,7 +5,8 @@
 
 
 📧Discord: Bignout#0515
-Click [here](https://discord.gg/dExJ9Sck7n) to go to my Quora profile. 
+
+ [Join my discord server](https://discord.gg/dExJ9Sck7n)
 <!--
 **Jackbail4/Jackbail4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
