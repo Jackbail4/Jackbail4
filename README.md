@@ -3,8 +3,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackbail4&show_icons=true&theme=github_dark))](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackbail4&show_icons=true&theme=github_dark)
 
-![Visitor Count](https://profile-counter.glitch.me/Jackbail4/count.svg)
-
 📧Discord: Bignout#0515
 
  [Join my discord server](https://discord.gg/dExJ9Sck7n)
