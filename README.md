@@ -2,7 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackbail4&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackbail4&layout=compact&theme=github_dark)
-![](https://i.imgur.com/4bjRZUv.png)
 
 📧Discord: Bignout#0515
 
