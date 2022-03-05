@@ -1,10 +1,7 @@
-### Hello. My name is Jack and i'm 17. I like anything computers; mostly reverse engineering, game hacking, networking, C, C++, Kernel, x86 and x64 Assembly. 🖥️
+### My name is Jack and i'm 17. I am the owner of [Art of Cheats](https://discord.gg/dExJ9Sck7n). I mainly focus on reverse engineering, game hacking, networking, low level programming including C, C++, ASM and Kernel.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackbail4&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackbail4&layout=compact&theme=github_dark)
 
 📧Discord: Bignout#0515
 
- [Join my discord server](https://discord.gg/dExJ9Sck7n)
- 
- [Like my work?](https://paypal.me/FormulaCheats?country.x=GB&locale.x=en_GB)
+ [Need help?](https://discord.gg/dExJ9Sck7n)
