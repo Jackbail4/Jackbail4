@@ -3,5 +3,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackbail4&show_icons=true&theme=github_dark)
 
 📧Discord: Bignout#0515
-
- [Need help?](https://discord.gg/dExJ9Sck7n)
